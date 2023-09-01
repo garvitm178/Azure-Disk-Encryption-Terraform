@@ -1,2 +1,2 @@
 # Azure-Disk-Encryption-Terraform
-Azure disk encryption through terrqaform
+Azure disk encryption through terraform
